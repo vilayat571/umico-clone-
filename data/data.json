@@ -1,0 +1,30 @@
+{
+    "slider": [
+        {
+            "id": "1",
+            "url": "https://strgimgr.umico.az/dcmimages/554/deskaz_4934.webp"
+        },
+        {
+            "id": "2",
+            "url": "https://strgimgr.umico.az/dcmimages/549/deskaz_4721.webp"
+        },
+        {
+            "id": "3",
+            "url": "https://strgimgr.umico.az/dcmimages/502/deskaz_4567.webp"
+        }
+    ],
+    "badge": [
+        {
+            "id": "1",
+            "url": "https://strgimgr.umico.az/dcmimages/554/deskaz_4934.webp"
+        },
+        {
+            "id": "22",
+            "url": "https://strgimgr.umico.az/dcmimages/549/deskaz_4721.webp"
+        },
+        {
+            "id": "3",
+            "url": "https://strgimgr.umico.az/dcmimages/502/deskaz_4567.webp"
+        }
+    ]
+}
